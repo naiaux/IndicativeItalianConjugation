@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <script src="verb.js"></script>
+    <title>Italian verb</title>
+</head>
+<body>
+    <header>
+        <h1 id="title">Test you italian conjugation</h1>
+        <p id="description">Conjugate the verb at indicative and have in mind the given pronoun</p>
+    <header>
+    <div class="card">
+        <form class="myForm" name="myform" action="" method="GET"><BR>
+            <h5>The pronoun is: <script>document.write(pronoun);</script> and the verb is: <script>document.write(verb)</script></h5>
+            
+            <script>document.write(pronoun)</script>
+            <input id="myInput" type="text" name="inputbox" value=""><p>
+            <button type="submit" class="btn btn-primary mb-2" name="button" value="Click" onClick="userGuess(this.form);window.location.reload()">Submit</button>
+        </form>
+    </div>
+</body>
+</html>
