@@ -74,7 +74,7 @@ function userGuess(form) {
     if(n == 0)
         alert ("Correct!")
     else 
-        alert ("Incorrect! " + conjugate().pronoun + " " + conjugatedVerb)
+        alert ("Incorrect! \"" + pronoun + " " + conjugatedVerb + "\" was the correct form")
 }
 
 var input = document.getElementById("myInput");
