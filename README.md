@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Site Screen Shot][site-screenshot]](https://alexnaie.github.io/IndicativeItalianConjugation/)
+[Visit the site](https://alexnaie.github.io/IndicativeItalianConjugation/)
 
 This project was made to help me learn Italian better and faster. It simply tells the end-user a pronoun and a verb, then the end-user has to conjugate the verb. 
 
