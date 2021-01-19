@@ -13,6 +13,8 @@ Supported tenses:
 
 ### Built With
 
+The application doesn't have any kind of database or connection to an external api.
+
 The technologies used:
 * [Bootstrap](https://getbootstrap.com)
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
