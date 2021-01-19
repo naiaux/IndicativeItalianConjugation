@@ -5,7 +5,7 @@
 
 [Visit the site](https://alexnaie.github.io/IndicativeItalianConjugation/)
 
-This project was made to help me learn Italian better and faster. It simply tells the end-user a pronoun and a verb, then the end-user has to conjugate the verb. 
+The project was made to make learning Italian better and faster. It simply tells the end-user a pronoun and a verb, then the end-user has to conjugate the verb. 
 
 Supported tenses:
 * Indicative (present)
